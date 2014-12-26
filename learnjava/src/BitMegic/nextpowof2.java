@@ -1,5 +1,5 @@
 package BitMegic;
-
+//Smaple comment
 public class nextpowof2 {
 
 int nextpoweroftwo(int x){
